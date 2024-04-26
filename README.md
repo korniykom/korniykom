@@ -15,6 +15,12 @@
               width="75"
               height="75"
             />
+          <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+              alt="css3"
+              width="75"
+              height="75"
+            />
   </p>
 
           
@@ -22,12 +28,13 @@
  ###### IN PROGRESS:
 
  <p align="CENTER">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
               alt="css3"
               width="75"
               height="75"
             />
+           
         
   </p>
 
