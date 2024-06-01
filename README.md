@@ -1,4 +1,4 @@
-
+![image](https://www.codewars.com/users/korniykom/badges/large)
 
 ###### COMPLETED:
 
