@@ -16,11 +16,12 @@
               height="75"
             />
           <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
               alt="css3"
-              width="75"
-              height="75"
+              width="65"
+              height="65"
             />
+          
   </p>
 
           
@@ -29,19 +30,20 @@
 
  <p align="CENTER">
     <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
               alt="css3"
               width="75"
               height="75"
             />
            
-        
   </p>
 
-## COURSES
-- [CSS&HTML](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=ST8MT40924)
-- [MySQL](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?couponCode=ST8MT40924)
-
-          
-
+<details>
+   <summary><b>Web-Courses</b></summary>
+  
+   ##### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+   ##### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+   ##### [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
+  
+</details>
  
