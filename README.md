@@ -20,6 +20,12 @@
               width="65"
               height="65"
             />
+             <img
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg"
+              alt="figma"
+              width="75"
+              height="75"
+            />
           
   </p>
 
@@ -34,12 +40,7 @@
               width="75"
               height="75"
             />
-   <img
-              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg"
-              alt="figma"
-              width="75"
-              height="75"
-            />
+  
            
   </p>
 
