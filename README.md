@@ -20,6 +20,12 @@
               width="65"
               height="65"
             />
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"
+              alt="react"
+              width="75"
+              height="75"
+            />
 
           
   </p>
@@ -29,20 +35,19 @@
  ###### IN PROGRESS:
 
  <p align="CENTER">
-    <img
+     <img
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
               alt="react"
               width="75"
               height="75"
             />
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"
+   <img
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"
               alt="react"
               width="75"
               height="75"
             />
-  
-           
+             
   </p>
 
 <details>
@@ -51,6 +56,7 @@
    ##### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
    ##### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
    ##### [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
-  
+   ##### [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+
 </details>
  
