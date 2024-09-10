@@ -16,12 +16,18 @@
             />
           <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-              alt="css3"
+              alt="javascript"
               width="65"
               height="65"
             />
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"
+              alt="tailwind"
+              width="75"
+              height="75"
+            />
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
               alt="react"
               width="75"
               height="75"
@@ -35,19 +41,18 @@
  ###### IN PROGRESS:
 
  <p align="CENTER">
-     <img
-              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
-              alt="react"
-              width="75"
-              height="75"
-            />
-   <img
+           <img
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"
-              alt="react"
+              alt="python"
               width="75"
               height="75"
             />
-             
+                   <img
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg"
+              alt="java"
+              width="75"
+              height="75"
+            />       
   </p>
 
 <details>
