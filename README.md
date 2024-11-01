@@ -2,15 +2,15 @@
 ###### COMPLETED:
 
  <p align="CENTER">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-              alt="css3"
+   <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+              alt="html5"
               width="75"
               height="75"
             />
             <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-              alt="html5"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+              alt="css3"
               width="75"
               height="75"
             />
@@ -46,13 +46,19 @@
               alt="python"
               width="75"
               height="75"
-            />
-                   <img
-              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg"
-              alt="java"
+            />   
+                     <img
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg"
+              alt="nodejs"
               width="75"
               height="75"
-            />       
+            />     
+      <img
+              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sass/sass-original.svg"
+              alt="sass"
+              width="75"
+              height="75"
+            />   
   </p>
 
 <details>
@@ -62,6 +68,8 @@
    ##### [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
    ##### [The Ultimate React Course 2024: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
    ##### [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+   ##### [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
+   ##### [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 
 </details>
  
