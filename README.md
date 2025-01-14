@@ -81,7 +81,7 @@
 <details>
   <summary><b>Udemy Minecraft plugins courses(Kotlin/Java) </b></summary>
 
-  ##### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/develop-minecraft-plugins-java-programming/?srsltid=AfmBOorwl7XYhXXuwAXJem6HyCdQNJjaDpTyOdwhwLqYX_xybT5YBph1)
+  ##### [Develop Minecraft Plugins](https://www.udemy.com/course/develop-minecraft-plugins-java-programming/?srsltid=AfmBOorwl7XYhXXuwAXJem6HyCdQNJjaDpTyOdwhwLqYX_xybT5YBph1)
  
 </details>
 <details>
