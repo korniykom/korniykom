@@ -95,3 +95,9 @@
 
   ##### [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 </details>
+
+<details>
+  <summary><b>Linux administration</b></summary>
+
+  #### [Complete Linux Training Course to Get Your Dream IT Job 2025](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?srsltid=AfmBOoozX5GHg1H8BYo42hrcVrT2QLsYIkJuz6LXBJ46TrWWiS5LRuXo)
+</details>
