@@ -14,35 +14,13 @@
     height="75"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sass/sass-original.svg"
-    alt="sass"
-    width="75"
-    height="75"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-    alt="javascript"
-    width="65"
-    height="65"
-  />
-  <img
     src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"
     alt="tailwind"
     width="75"
     height="75"
   />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
-    alt="react"
-    width="75"
-    height="75"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/archlinux/archlinux-original.svg"
-    alt="archlinux"
-    width="75"
-    height="75"
-  />
+
+
 </p>
 
 ###### IN PROGRESS:
@@ -55,22 +33,22 @@
     height="75"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg"
-    alt="nextjs"
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
+    alt="react"
+    width="75"
+    height="75"
+  />
+   <img
+    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sass/sass-original.svg"
+    alt="sass"
     width="75"
     height="75"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg"
-    alt="kotlin"
-    width="75"
-    height="75"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg"
-    alt="java"
-    width="75"
-    height="75"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    alt="javascript"
+    width="65"
+    height="65"
   />
 </p>
 
@@ -96,8 +74,4 @@
   ##### [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 </details>
 
-<details>
-  <summary><b>Linux administration</b></summary>
 
-  #### [Complete Linux Training Course to Get Your Dream IT Job 2025](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?srsltid=AfmBOoozX5GHg1H8BYo42hrcVrT2QLsYIkJuz6LXBJ46TrWWiS5LRuXo)
-</details>
